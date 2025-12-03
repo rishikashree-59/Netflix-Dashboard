@@ -143,7 +143,7 @@ https://app.powerbi.com/groups/me/dashboards/ce438f04-7d24-4c0f-b558-32bb7ffe5b0
 **K. Rishika Shree**  
 Aspiring Data Analyst | SQL | Power BI | Excel  
 
-LinkedIn: linkedin.com/in/rishika-shree-0a7555387  
+LinkedIn: [linkedin.com/in/rishika-shree-0a7555387](https://www.linkedin.com/in/rishika-shree-0a7555387/)
 
 ---
 
