@@ -123,7 +123,7 @@ Shows how different genres are distributed across audience age categories.
 ## 🌐 Live Dashboard Access
 
 🔗 **Power BI Interactive Dashboard:**  
-
+https://github.com/rishikashree-59/Netflix-Dashboard/blob/main/Snapshot%20of%20Detailed%20Analysis.png
 ---
 
 ## 🔁 Project Workflow
